@@ -120,20 +120,49 @@ const about=()=>`<main class="wrap">
         <h2 class="serif">Tools.</h2>
       </div>
     </div>
-
-    <div class="tool-grid">
-      <div class="tool-item"><strong>Ps</strong><span>Adobe Photoshop</span></div>
-      <div class="tool-item"><strong>Ai</strong><span>Adobe Illustrator</span></div>
-      <div class="tool-item"><strong>Id</strong><span>Adobe InDesign</span></div>
-      <div class="tool-item"><strong>Ae</strong><span>Adobe After Effects</span></div>
-      <div class="tool-item"><strong>Pr</strong><span>Adobe Premiere Pro</span></div>
-      <div class="tool-item"><strong>PPT</strong><span>Microsoft PowerPoint</span></div>
-      <div class="tool-item"><strong>Fg</strong><span>Figma</span></div>
-      <div class="tool-item"><strong>Flow</strong><span>Google Flow (AI Video)</span></div>
-      <div class="tool-item"><strong>CapCut</strong><span>CapCut (AI Video)</span></div>
-      <div class="tool-item"><strong>C24</strong><span>Cafe24</span></div>
-    </div>
-  </section>
+    
+<div class="tool-grid">
+  <div class="tool-item">
+    <img src="images/tools/photoshop.svg" alt="">
+    <span>Adobe Photoshop</span>
+  </div>
+  <div class="tool-item">
+    <img src="images/tools/illustrator.svg" alt="">
+    <span>Adobe Illustrator</span>
+  </div>
+  <div class="tool-item">
+    <img src="images/tools/indesign.svg" alt="">
+    <span>Adobe InDesign</span>
+  </div>
+  <div class="tool-item">
+    <img src="images/tools/aftereffects.svg" alt="">
+    <span>Adobe After Effects</span>
+  </div>
+  <div class="tool-item">
+    <img src="images/tools/premierepro.svg" alt="">
+    <span>Adobe Premiere Pro</span>
+  </div>
+  <div class="tool-item">
+    <img src="images/tools/powerpoint.svg" alt="">
+    <span>Microsoft PowerPoint</span>
+  </div>
+  <div class="tool-item">
+    <img src="images/tools/figma.svg" alt="">
+    <span>Figma</span>
+  </div>
+  <div class="tool-item">
+    <img src="images/tools/flow.svg" alt="">
+    <span>Google Flow (AI Video)</span>
+  </div>
+  <div class="tool-item">
+    <img src="images/tools/capcut.svg" alt="">
+    <span>CapCut (AI Video)</span>
+  </div>
+  <div class="tool-item">
+    <img src="images/tools/cafe24.svg" alt="">
+    <span>Cafe24</span>
+  </div>
+</div>
 
   <section class="about-section reveal">
     <div class="section-head">
