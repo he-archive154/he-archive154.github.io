@@ -34,7 +34,7 @@ const about=()=>`<main class="wrap">
       <ul class="profile-list">
         <li><strong>Name</strong><span>임희은 | Lim HeeEun</span></li>
         <li><strong>MBTI</strong><span>ISFJ</span></li>
-        <li><strong>Email</strong><span>${D.email ? esc(D.email) : 'tab950310@gmail.com'}</span></li>
+        <li><strong>Email</strong><span>${D.email ? esc(D.email) : 'siro.visualdesign@gmail.com'}</span></li>
       </ul>
     </div>
   </section>
