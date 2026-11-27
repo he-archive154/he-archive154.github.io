@@ -50,11 +50,13 @@ const about=()=>`<main class="wrap">
     <div class="timeline">
       <div class="timeline-item">
         <span class="date">2026.06 — Present</span>
-  <div>
-    <h3>주식회사 새벽다섯시</h3>
-    <p>Visual Design</p>
-  </div>
-</div>
+        <div>
+          <h3>주식회사 새벽다섯시</h3>
+          <p>Visual Design</p>
+        </div>
+      </div>
+      
+      <div class="timeline-item">
         <span class="date">2024.04 — 2026.01</span>
         <div>
           <h3>(주)워크플로컴퍼니</h3>
