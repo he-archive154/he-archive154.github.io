@@ -208,3 +208,19 @@
     text-align:left;
   }
 }
+
+
+/* Tools 프로그램 아이콘 */
+.tool-item img {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    flex-shrink: 0;
+    border-radius: 5px;
+}
+
+.tool-item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
