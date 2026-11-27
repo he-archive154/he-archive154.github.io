@@ -123,7 +123,7 @@ const about=()=>`<main class="wrap">
       <div class="tool-item"><strong>Fg</strong><span>Figma</span></div>
       <div class="tool-item"><strong>Flow</strong><span>Google Flow (AI Video)</span></div>
       <div class="tool-item"><strong>CapCut</strong><span>CapCut (AI Video)</span></div>
-      <div class="tool-item"><strong>SN</strong><span>사방넷 (Sabangnet)</span></div>
+      <div class="tool-item"><strong>C24</strong><span>Cafe24</span></div>
     </div>
   </section>
 
